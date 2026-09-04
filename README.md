@@ -4,18 +4,20 @@ A grid-based puzzle game implemented in C, merging traditional Sudoku structure 
 
 Developed as a group project for **EED 1005 - Introduction to Programming** at Dokuz Eylül University.
 
+---
+
+## 📊 Project Presentation & Documentation
+* 📑 **[View Project Presentation (PDF)](docs/Project-Presentation.pdf)** *(Recommended — Overview of mechanics, piece layout & architecture)*
+* 📝 **[View Progress Report (PDF)](docs/Project-Report.pdf)** *(Detailed algorithm explanations, flowcharts & team task logs)*
+
+---
+
 <p align="center">
   <img src="sudoku/before_clear.png" width="45%" alt="Placing Piece" />
   <img src="sudoku/after_clear.png" width="45%" alt="Clearing & Scoring" />
   <br>
   <em>Figure: Piece placement (left) resulting in full column clearance and binary score computation (right).</em>
 </p>
-
----
-
-## 📊 Project Presentation & Documentation
-* 📑 **[View Project Presentation (PDF)](Project-Presentation.pdf)** *(Recommended — Overview of mechanics, piece layout & architecture)*
-* 📝 **[View Progress Report (PDF)](Project-Report.pdf)** *(Detailed algorithm explanations, flowcharts & team task logs)*
 
 ---
 
@@ -28,10 +30,10 @@ Developed as a group project for **EED 1005 - Introduction to Programming** at D
 
 ---
 
-## 🛠️ My Role & Algorithmic Contributions
+## 🛠️ Key Contributions & Algorithmic Implementation
 * **Placement & Collision Detection:** Authored the core routines (`place_piece`, `valid_invalid`) that check boundaries, validate coordinate inputs, and prevent tile collisions.
-* **Clear & Evaluation Logic:** Developed logic within `check_clear` to detect completed rows, columns, and 3x3 blocks and manage matrix clearing.
-* **Input & Edge-Case Handling:** Corrected coordinate parsing errors and prevented edge-case grid out-of-bounds exceptions.
+* **Clear & Evaluation Logic:** Implemented detection algorithms within `check_clear` to identify completed rows, columns, and 3x3 blocks, executing matrix clearance and score calculation.
+* **Input & Edge-Case Handling:** Resolved coordinate parsing issues and handled edge-case boundary conditions across the grid.
 
 ---
 
@@ -44,4 +46,4 @@ Developed as a group project for **EED 1005 - Introduction to Programming** at D
 * Halil Ilgaz KESKİN
 * Yiğithan YILDIRIM
 
-*Course Lecturer: Öğr. Gör. Dr. Özlem ÖZTÜRK*
+*Course Instructor: Dr. Özlem ÖZTÜRK*
