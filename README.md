@@ -1,9 +1,6 @@
 # Binary Sudoku (C Console Game)
 
 A grid-based puzzle game implemented in C, merging traditional Sudoku structure with dynamic piece placement and binary score evaluation.
-
-Developed as a group project for **EED 1005 - Introduction to Programming** at Dokuz Eylül University.
-
 ---
 
 ## 📊 Project Presentation & Documentation
