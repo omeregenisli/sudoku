@@ -3,12 +3,14 @@
 A grid-based puzzle game implemented in C, merging traditional Sudoku structure with dynamic piece placement and binary score evaluation.
 
 Developed as a group project for **EED 1005 - Introduction to Programming** at Dokuz Eylül University.
+
 <p align="center">
-  <img src="before_clear.png" width="45%" alt="Placing Piece" />
-  <img src="after_clear.png" width="45%" alt="Clearing & Scoring" />
+  <img src="sudoku/before_clear.png" width="45%" alt="Placing Piece" />
+  <img src="sudoku/after_clear.png" width="45%" alt="Clearing & Scoring" />
   <br>
   <em>Figure: Piece placement (left) resulting in full column clearance and binary score computation (right).</em>
 </p>
+
 ---
 
 ## 📊 Project Presentation & Documentation
