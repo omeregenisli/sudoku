@@ -4,6 +4,12 @@ A grid-based puzzle game implemented in C, merging traditional Sudoku structure 
 ---
 
 ## 📊 Project Presentation & Documentation
+## 🎬 Video Demo
+A quick 2-minute walkthrough showcasing the core gameplay, piece placement mechanics, collision checks, and binary score calculation.
+
+[![Watch the Demo](https://img.youtube.com/vi/9iTrXHrg2G4/maxresdefault.jpg)](https://www.youtube.com/watch?v=9iTrXHrg2G4)
+
+> 💡 *Click the preview above to watch the gameplay demo on YouTube.*
 * 📑 **[View Project Presentation (PDF)](docs/Project-Presentation.pdf)** *(Recommended — Overview of mechanics, piece layout & architecture)*
 * 📝 **[View Progress Report (PDF)](docs/Project-Report.pdf)** *(Detailed algorithm explanations, flowcharts & team task logs)*
 
