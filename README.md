@@ -4,8 +4,8 @@ A grid-based puzzle game implemented in C, merging traditional Sudoku structure 
 
 Developed as a group project for **EED 1005 - Introduction to Programming** at Dokuz Eylül University.
 <p align="center">
-  <img src="before-clear.png" width="45%" alt="Placing Piece" />
-  <img src="after-clear.png" width="45%" alt="Clearing & Scoring" />
+  <img src="before_clear.png" width="45%" alt="Placing Piece" />
+  <img src="after_clear.png" width="45%" alt="Clearing & Scoring" />
   <br>
   <em>Figure: Piece placement (left) resulting in full column clearance and binary score computation (right).</em>
 </p>
